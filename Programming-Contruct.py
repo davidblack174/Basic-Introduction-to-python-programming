@@ -1,17 +1,17 @@
 #Foundation of Programming
 #----------------------------------------------
-# A program is an instrucrion giving the computer to perform a particular task.
+# A program is an instrument that allows the computer to perform a particular task.
 # For example 
 # x= 2 + 4  <-- An instruction
 # x is the identifier in the program
-# while 2 + 4 is the Value that the identifyer(that is x in this case) is holding in memory  
+# while 2 + 4 is the Value that the identifier(that is x in this case) is holding in memory  
 # The value of x is 6
 
 #----------------------------------------------
 # Programming Construct
 #----------------------------------------------
 # A programming construct is a building block of a program.
-# It is a specific way of writing an instruction in a program.
+# It is a specific way of writing instructions for a program.
 # There are three types of programming construct
 # 1. Sequence
 # 2. Selection
@@ -20,7 +20,7 @@
 # Sequence
 #----------------------------------------------
 # Sequence is the simplest programming construct.
-# It is a set of instructions that are executed in the order they are written.
+# It is a set of instructions executed in the order they are written.
 # For example
 # x = 2 + 4
 # y = x + 3
@@ -32,18 +32,18 @@
 #----------------------------------------------
 # Selection
 #----------------------------------------------
-# Selection is a programming construct that allows the program to make a decision.
-# It is also called decision making.
+# Selection is a programming construct that allows the program to decide.
+# It is also called decision-making.
 # There are two types of selection
 # 1. If statement
 # 2. Select case statement
 #----------------------------------------------
 # If Statement
 #----------------------------------------------
-# The if statement is used to make a decision based on a condition.
-# The condition is a boolean expression that evaluates to true or false.
-# If the condition is true, the statements inside the if block are executed.
-# If the condition is false, the statements inside the else block are executed.
+# The if statement is used to decide based on a condition.
+# The condition is a boolean expression evaluated as true or false.
+# The statements inside the if block are executed if the condition is true.
+# The statements inside the else block are executed if the condition is false.
 # For example
 # x = 10
 # if x > 5:
@@ -54,8 +54,8 @@
 #----------------------------------------------
 # Select Case Statement
 #----------------------------------------------
-# The select case statement is used to make a decision based on multiple conditions.
-# It is also called switch statement in some programming languages.
+# The select case statement is used to decide based on multiple conditions.
+# It is also called a switch statement in some programming languages.
 # For example
 # x = 2
 # select x:
@@ -71,7 +71,7 @@
 #----------------------------------------------
 # Iteration
 #----------------------------------------------
-# Iteration is a programming construct that allows the program to repeat a set of instructions multiple times.
+# Iteration is a programming construct that allows the program to repeat instructions multiple times.
 # It is also called looping.
 # There are two types of iteration for Python
 # 1. For loop
@@ -87,7 +87,7 @@
 #----------------------------------------------
 # While Loop
 #----------------------------------------------
-# The while loop is used to repeat a set of instructions as long as a condition is true.
+# The while loop repeats instructions if a condition is true.
 # For example
 # x = 0 
 # while x < 5:
