@@ -1,6 +1,6 @@
 #Foundation of Programming
 #----------------------------------------------
-# A program is an instrument that allows the computer to perform a particular task.
+# A program is an instrument giving to the computer to perform a particular task.
 # For example 
 # x= 2 + 4  <-- An instruction
 # x is the identifier in the program
@@ -68,6 +68,8 @@
 #     default:
 #         print("x is not 1, 2, or 3")
 # In the above example, the value of x is 2, so the statement "x is 2" is printed.
+# ---------------------------------------------
+# NOTE: No Select case in python
 #----------------------------------------------
 # Iteration
 #----------------------------------------------
