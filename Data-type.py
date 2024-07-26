@@ -23,4 +23,6 @@
 # x="5"
 #print(int(x))
 #From the above exanple you can see thet x was converted from strinf or character data type to integer.
+
+
 #
