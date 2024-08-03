@@ -17,9 +17,9 @@
 #     print("x is less than or equal to y")     #This stage confirms if x is less than or equal to y (which means it is false)
 # In the above example, the condition x > y is false, so the statement "x is less than or equal to y" is printed.
 #-----------------------------------------
-# Logical Operators
+# Boolean Operators
 #-----------------------------------------
-# They are used to perform logical operations like AND, OR, NOT, etc.
+# They are used to perform boolean operations like AND, OR, NOT, etc.
 # 1. AND in python is represented by the symbol 'and'
 # 2. OR in python is represented by the symbol 'or'
 # 3. NOT in python is represepythonnted by the symbol 'not'
